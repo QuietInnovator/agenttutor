@@ -13,8 +13,8 @@ async def process_question(question: str):
     return result
 
 # Streamlit UI
-st.set_page_config(page_title="Azair - Homework Tutor", page_icon="📘")
-st.title("📘 Azair Homework Tutor")
+st.set_page_config(page_title="AI Team Homework Tutor", page_icon="📘")
+st.title("📘 AI Team Homework Tutor")
 st.markdown("Ask a **math** or **history** homework question:")
 
 # Input box
